@@ -64,9 +64,6 @@ Reference textbooks:
 *   8 Programming Homework Assignments (50% credit for late submission (upto 1 day for 1st assignment and 2 for others)) \[**NB - A subset of these will have an associated viva**\] : 32%
 *   Bonus marks - 10 marks if you get into Master level on Kaggle or 5 marks if you get into Expert level on Kaggle
 
-* * *
-
-Schedule
 
 * * *
 
