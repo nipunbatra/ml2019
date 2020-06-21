@@ -2,7 +2,7 @@
 layout: page
 permalink: /feedback/
 title: Feedback
-description: "Discovery consists of looking at the same thing as everyone else and thinking something different."
+description: Continuous improvement is better than delayed perfection
 ---
 
 
