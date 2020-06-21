@@ -30,10 +30,10 @@ description: "Education is what remains after one has forgotten what one has lea
 |   | 27 Jan | HW 3 due on 5th Feb | [HW3](../hw/3.pdf "HW3") |  |
 |  9 | 29 Jan | Paper presentations II |  |  |
 |  10 | 1 Feb | [SGD and GD worked out example](../lectures/9-gd-sgd.pdf "SGD and GD worked out example") |  |  |
-|   | 1 Feb | [Notebook motivating regularisation](https://colab.research.google.com/github/nipunbatra/nipunbatra.github.io/blob/master/teaching/ml-spring-19/notebooks/Linear-Regression/large_weights-lr.ipynb "Notebook motivating regularisation") |  | [An overview of GD algorithm](http://ruder.io/optimizing-gradient-descent/index.html "An overview of GD algorithm") |
+|   | 1 Feb | [Notebook motivating regularisation](https://colab.research.google.com/github/nipunbatra/ml2019/blob/master/notebooks/Linear-Regression/large_weights-lr.ipynb "Notebook motivating regularisation") |  | [An overview of GD algorithm](http://ruder.io/optimizing-gradient-descent/index.html "An overview of GD algorithm") |
 |  11 | 5 Feb | Paper presentations III |  |  |
 |  12 | 8 Feb | [SGD v.s GD Summary](../lectures/10-gd-sgd-summary.pdf "SGD v.s GD Summary") |  |  |
-|   | 8 Feb | [Notebook showing Contour for GD and SGD](https://colab.research.google.com/github/nipunbatra/nipunbatra.github.io/blob/master/teaching/ml-spring-19/notebooks/Linear-Regression/sgd-contour.ipynb "Notebook showing Contour for GD and SGD") |  |  |
+|   | 8 Feb | [Notebook showing Contour for GD and SGD](https://colab.research.google.com/github/nipunbatra/ml2019/blob/master/notebooks/Linear-Regression/sgd-contour.ipynb "Notebook showing Contour for GD and SGD") |  |  |
 |   | 8 Feb | [Shuffling](../lectures/10-shuffling.pdf "Shuffling") |  |  |
 |   | 8 Feb | [KKT conditions](../lectures/10-kkt.pdf "KKT conditions") |  | [KKT conditions](http://www.onmyphd.com/?p=kkt.karush.kuhn.tucker "KKT conditions") |
 |   | 8 Feb | [Convexity](../lectures/10-convex.pdf "Convexity") |  |  |
@@ -46,7 +46,7 @@ description: "Education is what remains after one has forgotten what one has lea
 |  15 | 18 Feb | [KNN](../lectures/12-knn.pdf "KNN") |  |  |
 |   | 18 Feb | Parametric v/s Non-Parametric methods |  | 2.1.2 in ISLR book |
 |  16 | 12 Mar | Why KNN is non-parametric |  |  |
-|   | 12 Mar | [Curse of dimensionality](https://colab.research.google.com/github/nipunbatra/nipunbatra.github.io/blob/master/teaching/ml-spring-19/notebooks/curse-dimensionality.ipynb "Curse of dimensionality") |  |  |
+|   | 12 Mar | [Curse of dimensionality](https://colab.research.google.com/github/nipunbatra/ml2019/blob/master/notebooks/curse-dimensionality.ipynb "Curse of dimensionality") |  |  |
 |   | 12 Mar | [Naive Bayes](../lectures/13-bayesian-networks-nb.pdf "Naive Bayes") |  | https://www.coursera.org/learn/bayesian-methods-in-machine-learning |
 |  17 | 19 Mar | [ML categorisation](../lectures/14-categorisation.pdf "ML categorisation") |  |  |
 |   | 19 Mar | [Active Learning notebook](https://colab.research.google.com/github/nipunbatra/nipunbatra.github.io/blob/master/blog/2019/active-learning-motivation.ipynb "Active Learning notebook") |  |  |
@@ -54,7 +54,7 @@ description: "Education is what remains after one has forgotten what one has lea
 |   | 20 Mar | Phase - II presentations |  |  |
 |  18 | 22 Mar | [MLE, MAP, Bayesian -1 ](../lectures/15-mle-map-bayesian-1.pdf "MLE, MAP, Bayesian -1 ") |  |  |
 |  19 | 26 Mar | [MLE, MAP, Bayesian -2](../lectures/16-mle-map-bayesian-2.pdf "MLE, MAP, Bayesian -2") |  | [Multivariate Gaussian](https://www.youtube.com/watch?v=TC0ZAX3DA88 "Multivariate Gaussian") |
-|   | 26 Mar | [Bayesian Linear regression notebook](https://colab.research.google.com/github/nipunbatra/nipunbatra.github.io/blob/master/teaching/ml-spring-19/notebooks/bayesian-linear-regression.ipynb#scrollTo=Fq7ls2GpnNfh "Bayesian Linear regression notebook") |  |  |
+|   | 26 Mar | [Bayesian Linear regression notebook](https://colab.research.google.com/github/nipunbatra/ml2019/blob/master/notebooks/bayesian-linear-regression.ipynb#scrollTo=Fq7ls2GpnNfh "Bayesian Linear regression notebook") |  |  |
 |   | 26 Mar | [SVM 1](../lectures/16-svm-1.pdf "SVM 1") |  | [SVM without tears](https://med.nyu.edu/chibi/sites/default/files/chibi/Final.pdf "SVM without tears") |
 |  20 | 29 Mar | [SVM 2](../lectures/17-svm-2.pdf "SVM 2") |  | [SVM tutorial ](https://www.svm-tutorial.com/ "SVM tutorial ") |
 |   |  | ML demo presentations |  |  |
@@ -66,6 +66,6 @@ description: "Education is what remains after one has forgotten what one has lea
 |  24 | 12 Apr | [Neural Networks 1](../lectures/20-neural-1.pdf "Neural Networks 1") |  |  |
 |  25 | 16 Apr | [Quiz 3 (solved)](https://docs.google.com/document/d/156UEZAVhB4v09ycpdkn-1qsNIoLw-LHxGkanQPcRDNU/edit "Quiz 3 (solved)") |  |  |
 |  25 | 16 Apr | Neural Networks - II (slides same as above) |  |  |
-|  26 | 23 Apr | [Dropout notebook](https://github.com/nipunbatra/nipunbatra.github.io/blob/master/teaching/ml-spring-19/notebooks/dropout.ipynb "Dropout notebook") |  |  |
+|  26 | 23 Apr | [Dropout notebook](https://github.com/nipunbatra/ml2019/blob/master/notebooks/dropout.ipynb "Dropout notebook") |  |  |
 |  26 | 23 Apr | [Unsupervised Learning](../lectures/22-unsupervised.pdf "Unsupervised Learning") |  |  |
-|   | 2 May | [End semester exam](https://docs.google.com/document/d/1h_NH7-Z6CjlXGq7ExUbhfnWqrggCl_7L8fPzXjC0ZQQ/edit?usp=sharing "End semester exam") | [Answers](https://github.com/nipunbatra/nipunbatra.github.io/blob/master/teaching/ml-spring-19/exams/endsem-answers.pdf "Answers") |  |
+|   | 2 May | [End semester exam](https://docs.google.com/document/d/1h_NH7-Z6CjlXGq7ExUbhfnWqrggCl_7L8fPzXjC0ZQQ/edit?usp=sharing "End semester exam") | [Answers](https://github.com/nipunbatra/ml2019/blob/master/exams/endsem-answers.pdf "Answers") |  |
