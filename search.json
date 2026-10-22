@@ -1,0 +1,79 @@
+[
+  {
+    "objectID": "projects/index.html",
+    "href": "projects/index.html",
+    "title": "Projects",
+    "section": "",
+    "text": "ES 654\n  IIT Gandhinagar\n  \n  \n    Home\n    Lectures\n    Assessment\n    Feedback\n  \n\n\n\n\n\n\nThis page has moved: go to Assessment."
+  },
+  {
+    "objectID": "lectures/index.html",
+    "href": "lectures/index.html",
+    "title": "Lectures",
+    "section": "",
+    "text": "ES 654\n  IIT Gandhinagar\n  \n  \n    Home\n    Lectures\n    Assessment\n    Feedback\n  \n\n\n\n\n\n\nThis page has moved: go to Lectures."
+  },
+  {
+    "objectID": "assessment.html",
+    "href": "assessment.html",
+    "title": "Assessment",
+    "section": "",
+    "text": "ES 654\n  IIT Gandhinagar\n  \n  \n    Home\n    Lectures\n    Assessment\n    Feedback\nGrading and every dated event of the January–April 2019 offering in one place. The project carries the most weight; homework assignments are programming tasks, a subset of them with a viva."
+  },
+  {
+    "objectID": "assessment.html#deadlines",
+    "href": "assessment.html#deadlines",
+    "title": "Assessment",
+    "section": "Dates",
+    "text": "Dates\n\n\n\n\n\nDate\nEvent\n\n\n\n\n04 Jan 19\nCourse begins\n\n\n15 Jan 19\nQuiz 1\n\n\n17 Jan 19\nHomework 2 released\n\n\n20 Jan 19\nProject proposal due\n\n\n27 Jan 19\nHomework 2 due; Homework 3 released\n\n\n05 Feb 19\nHomework 3 due\n\n\n15 Feb 19\nProject phase I presentations\n\n\n20 Mar 19\nProject phase II presentations\n\n\n30 Mar 19\nML demo due\n\n\n05 Apr 19\nML demos\n\n\n16 Apr 19\nQuiz 3\n\n\n22 Apr 19\nFinal project report due\n\n\n02 May 19\nEnd-semester exam"
+  },
+  {
+    "objectID": "assessment.html#grading",
+    "href": "assessment.html#grading",
+    "title": "Assessment",
+    "section": "Grading",
+    "text": "Grading\nEverything is out of 100 marks, with bonus marks on top.\n\nComponentMarksHow\n\nProject40In groups of four or fewer: proposal report (5), phase I presentation (5), phase II presentation (5), three-minute pitch in the style of 3MT (5), demo and poster (15) and final report (5).\nHomework32Eight programming assignments, 4 marks each. Late submissions earn 50% credit: up to one day late for the first assignment and up to two days for the others. A subset has an associated viva.\nEnd semester10Written exam.\nQuizzes6Three surprise quizzes worth 3 marks each; the best two count.\nPaper presentation4Three students per paper: one summarises it, one argues for it, one acts as devil's advocate. Paper list · slides template.\nKaggle competition4Done individually, due in early April.\nML demo4An interactive demo, in the same team as the project, due 30 March. Examples: k-means, a visual introduction to ML, linear regression, random forests.\nTotal100Bonus: 10 marks for reaching Master level on Kaggle, or 5 marks for Expert level."
+  },
+  {
+    "objectID": "assessment.html#homework",
+    "href": "assessment.html#homework",
+    "title": "Assessment",
+    "section": "Homework",
+    "text": "Homework\n\nHomeworkHandout\n\n1Homework 1 (PDF)\n2Homework 2 (PDF)\n3Homework 3 (PDF)\n4Homework 4 (PDF)\n5Homework 5 (PDF)\n6Homework 6 (PDF)\n7Homework 7 (PDF)\n8Homework 8 (PDF)"
+  },
+  {
+    "objectID": "assessment.html#exams",
+    "href": "assessment.html#exams",
+    "title": "Assessment",
+    "section": "Quizzes and exams",
+    "text": "Quizzes and exams\n\nAssessmentDateMaterial\n\nQuiz 115 JanSolved quiz\nQuiz 316 AprSolved quiz\nEnd semester02 MayExam · Answers (PDF)"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Machine Learning",
+    "section": "",
+    "text": "ES 654\n  IIT Gandhinagar\n  \n  \n    Home\n    Lectures\n    Assessment\n    Feedback\n  \n\n\n\n\n\n\n\n\n\nMachine Learning\nES 654 · IIT Gandhinagar · Semester II, 2018–19\nES 654 introduces machine learning from decision trees and ensembles through linear models and optimisation, nearest neighbours, Bayesian estimation and active learning, to support vector machines and neural networks. Students read and argued about research papers, built a demo, entered a Kaggle competition and carried out a group project.\n\n  InstructorProf. Nipun Batra\n  Emailnipun.batra@iitgn.ac.in\n  ClassesTuesday and Friday, 3:30–5:00 pm, 1/101\n  Office hoursMonday, 12:00–1:00 pm\n  Teaching assistants4 TAs\n  PrerequisitesGood experience in Python programming, probability and linear algebra\n\n\n\nCourse record\nThis offering ran from January to April 2019. Its slides, notebooks, homework and exam solutions remain available.\n\n  Lectures26\n  Homework8 assignments\n  QuizzesSolutions to quizzes 1 and 3\n  End semesterExam and answers\n  NotebooksOn GitHub\n\nAll dates\n\n\nLectures\n\n  1–4Foundations and decision trees4 lectures\n  5–14Linear models and optimisation10 lectures\n  15–19Neighbours, Bayes and active learning5 lectures\n  20–26SVMs, logistic regression and neural networks7 lectures\n\n\n  All 26 lectures\n\n\n\n\nQuestions\nIs there a project?Yes: a group project in teams of up to four, worth 40%, assessed through a proposal, two presentations, a three-minute pitch, a demo and poster, and a final report. Ideas: from the instructors and from a Stanford ML course.\nHow do paper presentations work?Three students take each paper: one summarises it, one argues for it, and one acts as devil's advocate, convincing the jury that the paper has flaws. See the paper list and the slides template.\nCan I submit homework late?For 50% credit: up to one day late for the first assignment and up to two days for the others. A subset of assignments has a viva.\nHow do I prepare before the course?Refresh the prerequisites with the first four chapters of the Python Data Science Handbook, some material on linear algebra and Khan Academy's statistics and probability course.\n\nReferences\nReference textbooks:\n\n  Gareth James, Daniela Witten, Trevor Hastie and Robert Tibshirani, An Introduction to Statistical Learning with Applications in R (online)\n  Christopher M. Bishop, Pattern Recognition and Machine Learning, Springer, 2006 (free PDF)\n  Jerome Friedman, Trevor Hastie and Robert Tibshirani, The Elements of Statistical Learning, Springer, 2001 (free PDF)\n  Richard O. Duda, Peter E. Hart and David G. Stork, Pattern Classification, Wiley, 2012\n  Tom M. Mitchell, Machine Learning, McGraw Hill, 1997\n  Kevin P. Murphy, Machine Learning: A Probabilistic Perspective, MIT Press\n  Ian Goodfellow, Yoshua Bengio and Aaron Courville, Deep Learning, MIT Press, 2016 (online)\n\nOther ML courses:\n\n  NPTEL course by Balaraman Ravindran\n  CMU course by Tom Mitchell and Maria-Florina Balcan\n  Coursera course by Andrew Ng\n  fast.ai course on ML and Practical deep learning for coders\n  Course by Alex Ihler, UCI\n\n\n\n\nTeaching assistants\n\n  Indradeepindra.mastan@iitgn.ac.in\n  Sudhakarsudhakar.kumawat@iitgn.ac.in\n  Supratimsupratim.shit@iitgn.ac.in\n  Shubhamshubam.singh@iitgn.ac.in"
+  },
+  {
+    "objectID": "schedule.html",
+    "href": "schedule.html",
+    "title": "Lectures",
+    "section": "",
+    "text": "ES 654\n  IIT Gandhinagar\n  \n  \n    Home\n    Lectures\n    Assessment\n    Feedback\n  \n\n\n\n\n\n\n\nEvery class of the January–April 2019 offering, numbered in order, with its slides, readings and notebooks. Notebooks open in Colab.\nSlidesNotebookReading\nFoundations and decision trees1–4Linear models and optimisation5–14Neighbours, Bayes and active learning15–19SVMs, logistic regression and neural networks20–26\n\nFoundations and decision treesLectures 1–4\n\nLecture 01Introduction and logistics\nSlides\nLecture 02Accuracy metrics; decision trees IReading: Tom Mitchell, Machine Learning, chapter 3.\nAccuracy metrics, classification and regressionDecision trees: discrete input, discrete output\nLecture 03Decision trees II and III; bias and variance\nDecision trees IIDecision trees III: regressionBias–variance and cross-validation\nLecture 04Ensemble learningBagging, boosting and random forests.\nSlidesResearch methods (RM101)\n\n\nLinear models and optimisationLectures 5–14\n\nLecture 05Linear regression I; maths for ML IReading: An Introduction to Statistical Learning, chapter 3.\nLinear regressionMaths for ML I\nLecture 06Paper presentations I\n\nLecture 07Linear regression IISlides as in lecture 5.\nLinear regression\nLecture 08Maths for ML II; feature selection; gradient descent\nMaths for ML II: contours, gradients, LagrangianFeature selectionLinear regression III: gradient descentVideo: Constrained optimisation (Khan Academy)\nLecture 09Paper presentations II\n\nLecture 10Gradient descent and SGD: a worked example\nSlidesReading: An overview of gradient descent algorithmsNotebook: motivating regularisation\nLecture 11Paper presentations III\n\nLecture 12GD versus SGD; KKT conditions; convexity; ridge regression\nGD versus SGD: summaryShufflingKKT conditionsConvexityRidge regressionReading: KKT conditionsNotebook: contours for GD and SGD\nLecture 13Subgradients, lasso and coordinate descent\nSubgradientsLassoCoordinate descentCoordinate descent for regularised and unregularised regression\nLecture 14Project phase I presentations\n\n\n\nNeighbours, Bayes and active learningLectures 15–19\n\nLecture 15K-nearest neighboursParametric versus non-parametric methods. Reading: An Introduction to Statistical Learning, section 2.1.2.\nSlides\nLecture 16Curse of dimensionality; naive BayesWhy KNN is non-parametric.\nNaive BayesCourse: Bayesian methods in machine learning (Coursera)Notebook: curse of dimensionality\nLecture 17Categories of ML; active learning\nML categorisationActive learningReading: Active learning literature surveyNotebook: active learning\nLecture 18MLE, MAP and Bayesian estimation I\nSlides\nLecture 19MLE, MAP and Bayesian estimation II; SVM I\nMLE, MAP and Bayesian estimation IISVM IVideo: Multivariate GaussianReading: SVM without tearsNotebook: Bayesian linear regression\n\n\nSVMs, logistic regression and neural networksLectures 20–26\n\nLecture 20SVM IIFollowed by ML demo presentations.\nSlidesReading: SVM tutorial\nLecture 21SVM III\nSlides\nLecture 22ML demos\n\nLecture 23SVM IV; logistic regression\nSVM IVLogistic regression\nLecture 24SVM duality; neural networks I\nSVM: dual and primalNeural networks I\nLecture 25Neural networks IISlides as in lecture 24. Quiz 3 in class.\nNeural networks\nLecture 26Dropout; unsupervised learning\nUnsupervised learningNotebook: dropout\n\n\n\nSlides are the PDFs used in class. Paper presentations and project presentations were student sessions."
+  },
+  {
+    "objectID": "feedback.html",
+    "href": "feedback.html",
+    "title": "Feedback",
+    "section": "",
+    "text": "ES 654\n  IIT Gandhinagar\n  \n  \n    Home\n    Lectures\n    Assessment\n    Feedback\n  \n\n\n\n\n\n\nWhat students said about the course.\n\nThe course policy was very nice. It lifted a lot of pressure by reducing the weightage of written exams while maintaining the rigor through assignments.\n\n\nI never thought I can learn so many things from one course. I personally am a fan of this course.\n\n\nThe overall content and the planning of the course was the best being offered in the campus. The assignments and the project topics were also very much useful."
+  },
+  {
+    "objectID": "feedback/index.html",
+    "href": "feedback/index.html",
+    "title": "Feedback",
+    "section": "",
+    "text": "ES 654\n  IIT Gandhinagar\n  \n  \n    Home\n    Lectures\n    Assessment\n    Feedback\n  \n\n\n\n\n\n\nThis page has moved: go to Feedback."
+  }
+]

@@ -1,0 +1,10 @@
+---
+title: "Projects"
+include-in-header:
+  text: |
+    <meta http-equiv="refresh" content="0; url=../assessment.html#grading">
+    <link rel="canonical" href="https://nipunbatra.github.io/ml2019/assessment.html#grading">
+    <meta name="robots" content="noindex">
+---
+
+This page has moved: [go to Assessment](/assessment.html#grading).

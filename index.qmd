@@ -1,0 +1,93 @@
+---
+pagetitle: "ES 654 · Machine Learning 2019"
+description: "Machine Learning at IIT Gandhinagar, Semester II 2018–19"
+body-classes: dl wide
+---
+
+::: {.top}
+
+::: {.top-main}
+```{=html}
+<span hidden></span><!-- keeps Quarto from moving the h1 into its own title block -->
+<h1 class="h1">Machine Learning</h1>
+<p class="role">ES 654 · IIT Gandhinagar · Semester II, 2018–19</p>
+<p class="lede" style="margin-top:18px">ES 654 introduces machine learning from decision trees and ensembles through linear models and optimisation, nearest neighbours, Bayesian estimation and active learning, to support vector machines and neural networks. Students read and argued about research papers, built a demo, entered a Kaggle competition and carried out a group project.</p>
+<dl class="facts">
+  <dt>Instructor</dt><dd><a href="https://nipunbatra.github.io">Prof. Nipun Batra</a></dd>
+  <dt>Email</dt><dd><a href="mailto:nipun.batra@iitgn.ac.in">nipun.batra@iitgn.ac.in</a></dd>
+  <dt>Classes</dt><dd>Tuesday and Friday, 3:30–5:00 pm, 1/101</dd>
+  <dt>Office hours</dt><dd>Monday, 12:00–1:00 pm</dd>
+  <dt>Teaching assistants</dt><dd><a href="#people">4 TAs</a></dd>
+  <dt>Prerequisites</dt><dd>Good experience in Python programming, probability and linear algebra</dd>
+</dl>
+```
+:::
+
+::: {.next aria-labelledby="record-h"}
+```{=html}
+<span class="label" id="record-h">Course record</span>
+<p class="small" style="margin:0 0 12px">This offering ran from January to April 2019. Its slides, notebooks, homework and exam solutions remain available.</p>
+<dl>
+  <dt>Lectures</dt><dd><span class="stat">26</span></dd>
+  <dt>Homework</dt><dd><a href="assessment.html#homework">8 assignments</a></dd>
+  <dt>Quizzes</dt><dd><a href="assessment.html#exams">Solutions to quizzes 1 and 3</a></dd>
+  <dt>End semester</dt><dd><a href="assessment.html#exams">Exam and answers</a></dd>
+  <dt>Notebooks</dt><dd><a href="https://github.com/nipunbatra/ml2019/tree/master/notebooks">On GitHub</a></dd>
+</dl>
+<p class="all"><a href="assessment.html#deadlines">All dates</a></p>
+```
+:::
+
+:::
+
+```{=html}
+<section class="rule-top" id="lectures"><h2>Lectures</h2>
+<ul class="modules c4">
+  <li><span class="r">1–4</span><a href="schedule.html#foundations">Foundations and decision trees</a><span class="c">4 lectures</span></li>
+  <li><span class="r">5–14</span><a href="schedule.html#linear-models">Linear models and optimisation</a><span class="c">10 lectures</span></li>
+  <li><span class="r">15–19</span><a href="schedule.html#nonparametric-bayesian">Neighbours, Bayes and active learning</a><span class="c">5 lectures</span></li>
+  <li><span class="r">20–26</span><a href="schedule.html#svm-neural">SVMs, logistic regression and neural networks</a><span class="c">7 lectures</span></li>
+</ul>
+<div class="playlists">
+  <a class="btn solid" href="schedule.html">All 26 lectures</a>
+</div>
+</section>
+
+<div class="two rule-top">
+<section id="faq"><h2>Questions</h2>
+<details class="q" id="project"><summary>Is there a project?</summary><p>Yes: a group project in teams of up to four, worth 40%, assessed through a proposal, two presentations, a three-minute pitch, a demo and poster, and a final report. Ideas: <a href="https://docs.google.com/document/d/1sM-BdF7tCofvXwsvB22Tv5ve8JQAEwA5kh705uzsNns">from the instructors</a> and <a href="http://cs229.stanford.edu/proj2017/">from a Stanford ML course</a>.</p></details>
+<details class="q" id="paper-presentations"><summary>How do paper presentations work?</summary><p>Three students take each paper: one summarises it, one argues for it, and one acts as devil's advocate, convincing the jury that the paper has flaws. See the <a href="https://docs.google.com/spreadsheets/d/19X7uj0evg1aCV_iVnrrZjquG6jr5Qdpg06TqvNiPvTE/edit#gid=0">paper list</a> and the <a href="https://docs.google.com/presentation/d/1IOb5osggH6rGzJmS3f7drlGJAk3WzhmCpnDHecOzoPI/edit#slide=id.g4d46f3c2cc_0_55">slides template</a>.</p></details>
+<details class="q" id="late"><summary>Can I submit homework late?</summary><p>For 50% credit: up to one day late for the first assignment and up to two days for the others. A subset of assignments has a viva.</p></details>
+<details class="q" id="prepare"><summary>How do I prepare before the course?</summary><p>Refresh the prerequisites with the first four chapters of the <a href="https://jakevdp.github.io/PythonDataScienceHandbook/">Python Data Science Handbook</a>, <a href="https://machinelearningmastery.com/linear-algebra-machine-learning/">some material on linear algebra</a> and <a href="https://www.khanacademy.org/math/statistics-probability">Khan Academy's statistics and probability course</a>.</p></details>
+</section>
+<section id="references"><h2>References</h2>
+<p class="small muted">Reference textbooks:</p>
+<ul class="refs">
+  <li>Gareth James, Daniela Witten, Trevor Hastie and Robert Tibshirani, <i>An Introduction to Statistical Learning with Applications in R</i> (<a href="http://www-bcf.usc.edu/~gareth/ISL/">online</a>)</li>
+  <li>Christopher M. Bishop, <i>Pattern Recognition and Machine Learning</i>, Springer, 2006 (<a href="https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf">free PDF</a>)</li>
+  <li>Jerome Friedman, Trevor Hastie and Robert Tibshirani, <i>The Elements of Statistical Learning</i>, Springer, 2001 (<a href="https://web.stanford.edu/~hastie/Papers/ESLII.pdf">free PDF</a>)</li>
+  <li>Richard O. Duda, Peter E. Hart and David G. Stork, <i>Pattern Classification</i>, Wiley, 2012</li>
+  <li>Tom M. Mitchell, <i>Machine Learning</i>, McGraw Hill, 1997</li>
+  <li>Kevin P. Murphy, <i>Machine Learning: A Probabilistic Perspective</i>, MIT Press</li>
+  <li>Ian Goodfellow, Yoshua Bengio and Aaron Courville, <i>Deep Learning</i>, MIT Press, 2016 (<a href="https://www.deeplearningbook.org/">online</a>)</li>
+</ul>
+<p class="small muted" style="margin-top:14px">Other ML courses:</p>
+<ul class="refs">
+  <li><a href="https://www.youtube.com/watch?v=r4sgKrRL2Ys&amp;list=PL1xHD4vteKYVpaIiy295pg6_SY5qznc77">NPTEL course</a> by Balaraman Ravindran</li>
+  <li><a href="http://www.cs.cmu.edu/~ninamf/courses/601sp15/lectures.shtml">CMU course</a> by Tom Mitchell and Maria-Florina Balcan</li>
+  <li><a href="https://www.coursera.org/learn/machine-learning">Coursera course</a> by Andrew Ng</li>
+  <li><a href="https://course.fast.ai/ml">fast.ai course on ML</a> and <a href="https://course.fast.ai/index.html">Practical deep learning for coders</a></li>
+  <li><a href="http://sli.ics.uci.edu/Classes/2015W-273a">Course by Alex Ihler</a>, UCI</li>
+</ul>
+</section>
+</div>
+
+<section class="rule-top" id="people"><h2>Teaching assistants</h2>
+<ul class="people">
+  <li>Indradeep<span class="muted">indra.mastan@iitgn.ac.in</span></li>
+  <li>Sudhakar<span class="muted">sudhakar.kumawat@iitgn.ac.in</span></li>
+  <li>Supratim<span class="muted">supratim.shit@iitgn.ac.in</span></li>
+  <li>Shubham<span class="muted">shubam.singh@iitgn.ac.in</span></li>
+</ul>
+</section>
+```
